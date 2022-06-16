@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides summaries of each of the weekly lectures of the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
