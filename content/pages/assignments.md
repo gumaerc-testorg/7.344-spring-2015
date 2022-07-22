@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the weekly assignments, midterm
+  assignment, and final assignment for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: dbc2aaf8-e2bb-6acb-76e3-2cb4d9738135
 ---

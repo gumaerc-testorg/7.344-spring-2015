@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of assigned readings by week including links
+  to lecture summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8525d599-5542-3a2b-6863-3476ecf1d76f
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_1)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction
 
 The effect of age on reproduction in men and women
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_2)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_2" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Robertshaw, I., J. Khoury, et al. "[The Effect of Paternal Age on Outcome in Ass
 
 Gonadal stem cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_3)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_3" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Eggan, K., S. Jurga, et al. "[Ovulated Oocytes in Adult Mice Derive from Non-cir
 
 Cryopreservation of human embryos and oocytes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_4)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_4" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Wennerholm, U. B., V. Söderström-Anttila, et al. "[Children Born After Cryopre
 
 Characterization of infertility
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_5)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_5" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Oates, R. D., S. Silber, et al. "[Clinical Characterization of 42 Oligospermic o
 
 Sex chromosome constitution and fertility
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_6)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_6" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Lin, B., F. Tan, et al. "[_De Novo_ Structure Variations of the Y Chromosome in 
 
 Embryo culture, assessment, selection and transfer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_7)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_7" %}}
 
 
 {{< tdclose >}}
@@ -191,7 +196,7 @@ Wells, D., K. Kaur, et al. "[Clinical Utilisation of a Rapid Low-pass Whole Geno
 
 Visit to Boston area IVF clinic
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_8)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_8" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ No Readings
 
 Mouse models with abnormal reproductive phenotypes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_9)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_9" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Youngren, K. K., D. Coveney, et al. "[The Ter Mutation in the Dead End Gene Caus
 
 Seminal fluid–more than just a carrier of sperm
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_10)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_10" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Crawford, G., A. Ray, et al. "[The Role of Seminal Plasma for Improved Outcomes 
 
 Promise and challenges in reprogramming adult cells to gametes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_11)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_11" %}}
 
 
 {{< tdclose >}}
@@ -281,7 +286,7 @@ Irie, N., L. Weinberger, et al. "[SOX17 Is a Critical Specifier of Human Primord
 
 Student paper presentations and discussions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_12)
+{{% resource_link bbd788ee-9a42-bf41-04ac-052933122055 "See the Lecture Summary" "#Week_12" %}}
 
 
 {{< tdclose >}}
