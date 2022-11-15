@@ -54,8 +54,10 @@
   },
   "learning_resource_types": [
     "Presentation Assignments",
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "b941f4a6-449d-48de-9fe4-f5ea5faba85d",
+  "site_uid": "f141a3d3-356c-4c20-be06-229b1228d8ae",
+  "short_id": "7.344-spring-2015",
   "title": "Course Metadata"
 }
