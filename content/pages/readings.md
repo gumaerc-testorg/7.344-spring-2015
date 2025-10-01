@@ -59,9 +59,9 @@ The effect of age on reproduction in men and women
 {{< tdopen >}}
 
 
-Allen, E. G., S. B. Freeman, et al. "[Maternal Age and Risk for Trisomy 21 Assessed by the Origin of Chromosome Nondisjunction: A Report from the Atlanta and National Down Syndrome Projects](http://dx.doi.org/10.1007/s00439-008-0603-8)." _Human Genetics_ 125, no. 1 (2009): 41–52.
+Allen, E. G., S. B. Freeman, et al. "{{% resource_link "506ac84f-1aa7-4efb-af30-f35dc647eec3" "Maternal Age and Risk for Trisomy 21 Assessed by the Origin of Chromosome Nondisjunction: A Report from the Atlanta and National Down Syndrome Projects" %}}." _Human Genetics_ 125, no. 1 (2009): 41–52.
 
-Robertshaw, I., J. Khoury, et al. "[The Effect of Paternal Age on Outcome in Assisted Reproductive Technology Using the Ovum Donation Model](http://dx.doi.org/10.1177/1933719113506497)." _Reproductive Sciences_ 21, no. 5 (2014): 590–93.
+Robertshaw, I., J. Khoury, et al. "{{% resource_link "7e01056c-a98f-4333-af76-6eafde6d276a" "The Effect of Paternal Age on Outcome in Assisted Reproductive Technology Using the Ovum Donation Model" %}}." _Reproductive Sciences_ 21, no. 5 (2014): 590–93.
 
 
 {{< tdclose >}}
@@ -83,9 +83,9 @@ Gonadal stem cells
 {{< tdopen >}}
 
 
-Johnson, J., J. Bagley, et al. "[Oocyte Generation in Adult Mammalian Ovaries by Putative Germ Cells in Bone Marrow and Peripheral Blood](http://dx.doi.org/10.1016/j.cell.2005.06.031)." _Cell_ 122, no. 2 (2005): 303–15.
+Johnson, J., J. Bagley, et al. "{{% resource_link "aab73768-9574-4716-bf30-c568872bbd78" "Oocyte Generation in Adult Mammalian Ovaries by Putative Germ Cells in Bone Marrow and Peripheral Blood" %}}." _Cell_ 122, no. 2 (2005): 303–15.
 
-Eggan, K., S. Jurga, et al. "[Ovulated Oocytes in Adult Mice Derive from Non-circulating Germ Cells](http://dx.doi.org/10.1038/nature04929)." _Nature_ 441, no. 7097 (2006): 1109–114.
+Eggan, K., S. Jurga, et al. "{{% resource_link "6c034a1f-4e07-4966-a339-8bfaabb3aa77" "Ovulated Oocytes in Adult Mice Derive from Non-circulating Germ Cells" %}}." _Nature_ 441, no. 7097 (2006): 1109–114.
 
 
 {{< tdclose >}}
@@ -107,9 +107,9 @@ Cryopreservation of human embryos and oocytes
 {{< tdopen >}}
 
 
-Trounson, A., and L. Mohr. "[Human Pregnancy following Cryopreservation, Thawing and Transfer of an Eight-cell Embryo](http://dx.doi.org/10.1038/305707a0)." _Nature_ 305, no. 5936 (1983): 707–9.
+Trounson, A., and L. Mohr. "{{% resource_link "d9f47d5d-a545-434c-85cc-763c0ead9ca2" "Human Pregnancy following Cryopreservation, Thawing and Transfer of an Eight-cell Embryo" %}}." _Nature_ 305, no. 5936 (1983): 707–9.
 
-Wennerholm, U. B., V. Söderström-Anttila, et al. "[Children Born After Cryopreservation of Embryos or Oocytes: A Systematic Review of Outcome Data](http://dx.doi.org/10.1093/humrep/dep125)." _Human Reproduction_ 24, no. 9 (2009): 2158–72.
+Wennerholm, U. B., V. Söderström-Anttila, et al. "{{% resource_link "48e15eee-6df7-45c4-a45d-08db8fd7363b" "Children Born After Cryopreservation of Embryos or Oocytes: A Systematic Review of Outcome Data" %}}." _Human Reproduction_ 24, no. 9 (2009): 2158–72.
 
 
 {{< tdclose >}}
@@ -131,9 +131,9 @@ Characterization of infertility
 {{< tdopen >}}
 
 
-Rosen, Mitchell P., Barbara Sternfeld, et al. "[Antral Follicle Count: Absence of Significant Midlife Decline](http://dx.doi.org/10.1016/j.fertnstert.2009.12.045)." _Fertility and Sterility_ 94, no. 6 (2010): 2182–185.
+Rosen, Mitchell P., Barbara Sternfeld, et al. "{{% resource_link "b633b56c-985a-4c69-b330-5b62bad677a9" "Antral Follicle Count: Absence of Significant Midlife Decline" %}}." _Fertility and Sterility_ 94, no. 6 (2010): 2182–185.
 
-Oates, R. D., S. Silber, et al. "[Clinical Characterization of 42 Oligospermic or Azoospermic Men with Microdeletion of the AZFc Region of the Y Chromosome, and of 18 Children Conceived via ICSI](http://dx.doi.org/10.1093/humrep/17.11.2813)." _Human Reproduction_ 17, no. 11 (2002): 2813–24.
+Oates, R. D., S. Silber, et al. "{{% resource_link "ad7ede15-127f-4894-b0fd-b5ec7ace51ea" "Clinical Characterization of 42 Oligospermic or Azoospermic Men with Microdeletion of the AZFc Region of the Y Chromosome, and of 18 Children Conceived via ICSI" %}}." _Human Reproduction_ 17, no. 11 (2002): 2813–24.
 
 
 {{< tdclose >}}
@@ -155,9 +155,9 @@ Sex chromosome constitution and fertility
 {{< tdopen >}}
 
 
-Hunt, P. A., C. Worthman, et al. "[Germ Cell Loss in the XXY Male Mouse: Altered X-chromosome Dosage Affects Prenatal Development](http://dx.doi.org/10.1002/(SICI)1098-2795(199802)49:2<101::AID-MRD1>3.0.CO;2-T)." _Molecular Reproduction and Development_ 49, no. 9 (1998): 101-11.
+Hunt, P. A., C. Worthman, et al. "{{% resource_link "77815b35-63b3-4253-bea2-7390bf7a58ed" "Germ Cell Loss in the XXY Male Mouse: Altered X-chromosome Dosage Affects Prenatal Development" %}}." _Molecular Reproduction and Development_ 49, no. 9 (1998): 101-11.
 
-Lin, B., F. Tan, et al. "[_De Novo_ Structure Variations of the Y Chromosome in a 47,XXY Female with Ovarian Failure: A Case Report](http://dx.doi.org/10.1159/000366170)." _Cytogenetic and Genome Research_ 143, no. 4 (2014): 221–4.
+Lin, B., F. Tan, et al. "{{% resource_link "26fd6d31-342b-49cd-a304-c1f24b3ad9c9" "_De Novo_ Structure Variations of the Y Chromosome in a 47,XXY Female with Ovarian Failure: A Case Report" %}}." _Cytogenetic and Genome Research_ 143, no. 4 (2014): 221–4.
 
 
 {{< tdclose >}}
@@ -179,9 +179,9 @@ Embryo culture, assessment, selection and transfer
 {{< tdopen >}}
 
 
-Rienzi, L., A. Capalbo, et al. "[No Evidence of Association Between Blastocyst Aneuploidy and Morphokinetic Assessment in a Selected Population of Poor-prognosis Patients: A Longitudinal Cohort Study](http://dx.doi.org/10.1016/j.rbmo.2014.09.012)." _Reproductive Biomedicine Online_ 30, no. 1 (2015): 57–66.
+Rienzi, L., A. Capalbo, et al. "{{% resource_link "dff9f403-2495-4a0f-a641-c5572c531d85" "No Evidence of Association Between Blastocyst Aneuploidy and Morphokinetic Assessment in a Selected Population of Poor-prognosis Patients: A Longitudinal Cohort Study" %}}." _Reproductive Biomedicine Online_ 30, no. 1 (2015): 57–66.
 
-Wells, D., K. Kaur, et al. "[Clinical Utilisation of a Rapid Low-pass Whole Genome Sequencing Technique for the Diagnosis of Aneuploidy in Human Embryos Prior to Implantation](http://dx.doi.org/10.1136/jmedgenet-2014-102497)." _Journal of Medical Genetics_ 51, no. 8 (2014): 553–62.
+Wells, D., K. Kaur, et al. "{{% resource_link "d7ff25be-9533-4170-a956-6aca4855e368" "Clinical Utilisation of a Rapid Low-pass Whole Genome Sequencing Technique for the Diagnosis of Aneuploidy in Human Embryos Prior to Implantation" %}}." _Journal of Medical Genetics_ 51, no. 8 (2014): 553–62.
 
 
 {{< tdclose >}}
@@ -221,9 +221,9 @@ Mouse models with abnormal reproductive phenotypes
 {{< tdopen >}}
 
 
-Ferguson, L., J. J. How, et al. "[The Fate of Spermatogonial Stem Cells in the Cryptorchid Testes of RXFP2 Deficient Mice](http://dx.doi.org/10.1371/journal.pone.0077351)." _PLoS One_ 8, no. 10 (2013): e77351.
+Ferguson, L., J. J. How, et al. "{{% resource_link "414a4eb6-266b-4a3c-b7bb-d8aa1e6019f0" "The Fate of Spermatogonial Stem Cells in the Cryptorchid Testes of RXFP2 Deficient Mice" %}}." _PLoS One_ 8, no. 10 (2013): e77351.
 
-Youngren, K. K., D. Coveney, et al. "[The Ter Mutation in the Dead End Gene Causes Germ Cell Loss and Testicular Germ Cell Tumours](http://dx.doi.org/10.1038/nature03595)." _Nature_ 435, no. 7040 (2005): 360–64.
+Youngren, K. K., D. Coveney, et al. "{{% resource_link "08b12671-db39-497a-b916-36d6086a988d" "The Ter Mutation in the Dead End Gene Causes Germ Cell Loss and Testicular Germ Cell Tumours" %}}." _Nature_ 435, no. 7040 (2005): 360–64.
 
 
 {{< tdclose >}}
@@ -245,9 +245,9 @@ Seminal fluid–more than just a carrier of sperm
 {{< tdopen >}}
 
 
-Bromfield, J. J., J. E. Schjenken, et al. "[Maternal Tract Factors Contribute to Paternal Seminal Fluid Impact on Metabolic Phenotype in Offspring](http://dx.doi.org/10.1073/pnas.1305609111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 6 (2014): 2200–05.
+Bromfield, J. J., J. E. Schjenken, et al. "{{% resource_link "910f57e4-63fe-46f6-8f6f-3379012f1c80" "Maternal Tract Factors Contribute to Paternal Seminal Fluid Impact on Metabolic Phenotype in Offspring" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 6 (2014): 2200–05.
 
-Crawford, G., A. Ray, et al. "[The Role of Seminal Plasma for Improved Outcomes During _in Vitro_ Fertilization Treatment: Review of the Literature and Meta-analysis](http://dx.doi.org/10.1093/humupd/dmu052)." _Human Reproduction Update_ 21, no. 2 (2015): 275–84.
+Crawford, G., A. Ray, et al. "{{% resource_link "18fd4326-e9ff-4535-9ea1-66eb964159b8" "The Role of Seminal Plasma for Improved Outcomes During _in Vitro_ Fertilization Treatment: Review of the Literature and Meta-analysis" %}}." _Human Reproduction Update_ 21, no. 2 (2015): 275–84.
 
 
 {{< tdclose >}}
@@ -269,9 +269,9 @@ Promise and challenges in reprogramming adult cells to gametes
 {{< tdopen >}}
 
 
-Hayashi, K., S. Ogushi, et al. "[Offspring from Oocytes Derived from _in Vitro_ Primordial Germ Cell-like Cells in Mice](http://dx.doi.org/10.1126/science.1226889)." _Science_ 338, no. 6109 (2012): 971–5.
+Hayashi, K., S. Ogushi, et al. "{{% resource_link "876cdbe2-226e-43bc-bea9-4b441db12ce5" "Offspring from Oocytes Derived from _in Vitro_ Primordial Germ Cell-like Cells in Mice" %}}." _Science_ 338, no. 6109 (2012): 971–5.
 
-Irie, N., L. Weinberger, et al. "[SOX17 Is a Critical Specifier of Human Primordial Germ Cell Fate](http://dx.doi.org/10.1016/j.cell.2014.12.013)." _Cell_ 160, no. 1–2 (2015): 253–68.
+Irie, N., L. Weinberger, et al. "{{% resource_link "3d2c4d7c-cef9-4e2c-9846-82f432925839" "SOX17 Is a Critical Specifier of Human Primordial Germ Cell Fate" %}}." _Cell_ 160, no. 1–2 (2015): 253–68.
 
 
 {{< tdclose >}}
